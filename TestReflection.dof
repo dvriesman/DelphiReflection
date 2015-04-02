@@ -1,0 +1,138 @@
+[Compiler]
+A=1
+B=0
+C=1
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=1
+K=0
+L=1
+M=0
+N=1
+O=1
+P=1
+Q=0
+R=0
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=1
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=
+[Directories]
+OutputDir=
+UnitOutputDir=
+PackageDLLOutputDir=
+PackageDCPOutputDir=
+SearchPath=
+Packages=Vcl50;Vclx50;VclSmp50;Vcldb50;vclado50;ibevnt50;Vclbde50;vcldbx50;Qrpt50;TeeUI50;TeeDB50;Tee50;Dss50;TeeQR50;VCLIB50;Vclmid50;vclie50;Inetdb50;Inet50;NMFast50;webmid50;dclocx50;dclaxserver50;Indy50;Json;WPTools5_D5;spGifImage;spPNG;sajD5Completo;FirstClass_d5;Box50;digD5Completo;VCLZipD5;sp4D5Completo;wflD5Completo;VirtualTreesD5;spViewPDF;spImageEn;sarD5Completo;smdCompleto;pg5cCompleto;cgoD5Completo;smdCompletoDT;scmD5Completo;ccpD5Completo;sggd5completo;ggpd5completo;dxForumLibD5;aipD5Completo;pg5D5Completo;spSecureBlackBox;PDFBBoxD5;PKIBBoxD5;BaseBBoxD5;spHint;JVCL;cgoD5CompletoDT;dxBarD5;spdxBarD5;addict3_d5;spAddict3D5;WPTAddict_D5;tbx_d5;tb2k_d5;addict3db_d5;dcctd5;EmbeddedWebBrowser;dxGrEdD5;dxEdtrD5;dxcomnD5;dxBarDBNavD5;dxBarExtDBItemsD5;dxBarExtItemsD5;dxdbtrd5;dxExELD5;dxELibD5;EQGridD5;dxExRwD5;dxmdsd5;dxPageControlD5;dxObjInsD5;PKIECtrl5;dxtrmdd5;dxsbd5;SqlDir50;JclD50;dxInsD5;proD5Completo;edtd5completo;pland5;asgd5;dbpland5;MPHexEditor_D5;dxDBEdD5;ECQDBCD5;EQDBTLD5;EQTLD5;Rave50VCLD5;rbRCL55;rbBDE55;RxBDE5;RxDB5;vcl70;dxEdtrD7;ECQDBCD7;vcldb70;rtl70;ZLibExD7;fapD5;spdxInspector;catD5Completo;fit
+Conditionals=
+DebugSourceDirs=
+UsePackages=0
+[Parameters]
+RunParams=
+HostApplication=
+[Language]
+ActiveLang=
+ProjectLang=$00000416
+RootDir=
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1046
+CodePage=1252
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+[Excluded Packages]
+Q:\PacDes\Bin\tbx_d5.bpl=Toolbar2000 -- TBX Extensions (Alex Denisov)
+Q:\PacDes\Bin\tb2k_d5.bpl=Toolbar2000 Components (Jordan Russell)
+Q:\PacDes\Bin\dcctd5.bpl=Dream Controls
+Q:\PacDes\Bin\pland5.bpl=TMS TPlanner
+Q:\PacDes\Bin\dclRB55.bpl=ReportBuilder Standard
+Q:\pacDes\bin\spCryptoDoc.bpl=Criptografia de documentos
+Q:\PacDes\Bin\addict3db_d5.bpl=Addict 3.4.2 for Delphi 5 (DB Aware Components)
+Q:\PacDes\Bin\dbpland5.bpl=TMS TDBPlanner
+Q:\PacDes\Bin\dcldxBarD5.bpl=ExpressBars by Developer Express Inc.
+Q:\PacDes\Bin\dcldxBarDBNavD5.bpl=ExpressBars DBNavigator by Developer Express Inc.
+Q:\PacDes\Bin\dcldxBarExtDBItemsD5.bpl=ExpressBars extended DB items by Developer Express Inc.
+Q:\PacDes\Bin\dcldxBarExtItemsD5.bpl=ExpressBars extended items by Developer Express Inc.
+Q:\PacDes\Bin\dcldxdbtrd5.bpl=ExpressDBTree by Developer Express Inc.
+Q:\PacDes\Bin\dcldxEdtrD5.bpl=Express inplace editors
+Q:\PacDes\Bin\dcldxELibD5.bpl=ExpressEditors Library by Developer Express Inc.
+Q:\PacDes\Bin\dcldxExELD5.bpl=ExpressEditors Library (Extended) by Developer Express Inc.
+Q:\PacDes\Bin\dcldxExRwD5.bpl=ExpressInspector by Developer Express Inc.
+Q:\PacDes\Bin\dcldxForumLibD5.bpl=Developer Express Forum Library
+Q:\PacDes\Bin\dcldxGrEdD5.bpl=Express extended inplace editors
+Q:\PacDes\Bin\dcldxmdsd5.bpl=ExpressMemData by Developer Express Inc.
+Q:\PacDes\Bin\dcldxObjInsD5.bpl=ExpressRTTIInspector by Developer Express Inc.
+Q:\PacDes\Bin\dcldxPageControlD5.bpl=ExpressPageControl by Developer Express Inc.
+Q:\PacDes\Bin\dcldxsbD5.bpl=ExpressSideBar by Developer Express Inc.
+Q:\PacDes\Bin\dcldxtrmdd5.bpl=ExpressTreePrintedDataSet by Developer Express Inc.
+Q:\PacDes\Bin\dclECQDBCD5.bpl=ExpressQuantumDBControl by Developer Express Inc.
+Q:\PacDes\Bin\dclEQDBTLD5.bpl=ExpressQuantumDBTreeList by Developer Express Inc.
+Q:\PacDes\Bin\dclEQGridD5.bpl=ExpressQuantumGrid by Developer Express Inc.
+Q:\PacDes\Bin\dclEQTLD5.bpl=ExpressQuantumTreeList by Developer Express Inc.
+Q:\pacDes\Bin\EmbeddedWebBrowser.bpl=EmbeddedWb - Embedded Web Browser
+Q:\PacDes\Bin\FirstClassd_D5.bpl=Woll2Woll 1stClass
+Q:\PacDes\Bin\NyBckD5.bpl=Componente NyBck (backup)
+Q:\PacDes\Bin\tb2kdsgn_d5.bpl=Toolbar2000 Design Package (Jordan Russell)
+Q:\PacDes\Bin\tbxdsgn_d5.bpl=Toolbar2000 -- TBX Extensions Design Package (Alex Denisov)
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=Q:\sp4Des\Componentes\sp4Geral\;Q:\sajDes\Componentes\sajGeral\;Q:\sajDes\Componentes\sajDados\
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlSearchPath]
+Count=2
+Item0=Q:\PACDES\LIB;Q:\SP4DES\LIB;Q:\LIB;Q:\catDes\Classes;Q:\catDes\Componentes\catConsultas
+Item1=Q:\PACDES\LIB;Q:\SP4DES\LIB;Q:\LIB
+[HistoryLists\hlUnitOutputDirectory]
+Count=1
+Item0=Q:\Lib
+[HistoryLists\hlOutputDirectorry]
+Count=1
+Item0=Q:\BIN
+[HistoryLists\hlBPLOutput]
+Count=1
+Item0=Q:\Bin
+[HistoryLists\hlDCPOutput]
+Count=1
+Item0=Q:\LIB
