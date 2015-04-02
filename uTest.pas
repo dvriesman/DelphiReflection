@@ -19,16 +19,11 @@ type
   published
     { Public declarations }
     function escreva(value : String; num : Integer; maisum : String; valor : integer) : String;
-
     function teste(value : String; outro : String) : String;
     function numero(value : String; outro : String) : Integer;
-
     function variosStrings(value : String; value1 : String; value2 : String; value3 : String; value4: string) : string;
-
-
     procedure testeProcedure();
     function semparametro(): string;
-
   end;
 
 var
@@ -43,23 +38,17 @@ begin
   result := value + inttostr(num) + '- ' + maisum + '-' + inttostr(valor);
 end;
 
-
-
 procedure TForm1.Button2Click(Sender: TObject);
 var
   oMethod : TSmartMethod;
-
   oParams : TStringArray;
   resultado : variant;
-
 begin
-
   oMethod  := TSmartMethod.Create('teste');
   try
-
     setLength(oParams, 2);
-    oParams[0] := 'abcadfcadsfadsfds';
-    oParams[1] := 'xyz';
+    oParams[0] := 'Param01';
+    oParams[1] := 'Param02';
 
     resultado := oMethod .Execute(self, oParams);
     ShowMessage(resultado);
@@ -75,7 +64,7 @@ begin
     oParams[1] := 'richard';
     oParams[2] := 'san';
     oParams[3] := 'vriesman';
-    oParams[4] := 'xyzasdfasfsdfdf';
+    oParams[4] := 'anotherOne';
     resultado := oMethod.Execute(self, oParams);
     ShowMessage(resultado);
   finally
